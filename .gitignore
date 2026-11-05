@@ -1,6 +1,14 @@
+/.gitignore
+
 .ddev/
 .ddev/*
+/.ddev/
+/.ddev/*
 ddev/
 ddev/*
+/ddev/
+/ddev/*
 lib/
 lib/*
+/lib/
+/lib/*
