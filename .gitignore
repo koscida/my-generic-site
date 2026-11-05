@@ -1,0 +1,6 @@
+.ddev/
+.ddev/*
+ddev/
+ddev/*
+lib/
+lib/*
